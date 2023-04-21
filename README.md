@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 Currently working on a Chatroom with php and MySQL
+- 🔭 <del>Currently working on a Chatroom with php and MySQL</del>
+- 🎮️ Working on a short game in Godot.
 - 🌱 Learning Vue.js and Go Right now.
 
