@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 Considering reworking on the stale Chatroom I made with php and MySQL.
-- 🎮️ Making games in Unity and Godot.
+- 🔭 Studying Cloud and OS.
+- 🎮️ I try to make games in Unity and Godot.
 - 💼 Student.
 
