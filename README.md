@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 Studying Cloud and OS.
-- 🎮️ I try to make games in Unity and Godot.
+- 🎮️ I Godot sometimes.
 - 💼 Student.
 
